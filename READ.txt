@@ -1,0 +1,6 @@
+Sample mode to add++ on virus >0< software!!
+author:CESAR VERSATTI
+
+For those of you using Windows (instead of Linux fs.py ):
+Use system.startfile("Virus.mp4").
+instead of os.system("mpg321 Virus.mp4").
